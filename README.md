@@ -1,2 +1,8 @@
-# Coffee-Sales-analysis
-Coffee sales analysis using Excel involves using Microsoft Excel to analyze and interpret data related to coffee sales. This analysis can provide valuable insights into the performance of a coffee business, identify trends, and help make informed decisions to improve sales and profitability
+# Dashboard
+<div>
+<img align="centre"  src="https://i.postimg.cc/tgfSWPTf/image.png">
+</div>
+
+# Tools Used
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
